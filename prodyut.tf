@@ -1,4 +1,4 @@
-  resource "azurerm_windows_virtual_machine" "vm" {
-  name = "prodyut"
-...
-}
+    resource "azurerm_linux_virtual_machine" "vm" {
+    name = "prodyut"
+  ...
+  }
